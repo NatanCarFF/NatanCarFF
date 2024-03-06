@@ -1,6 +1,9 @@
 # Olá! eu sou o Natanael 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
+## CONTAGEM DE VISITANTES 
+![Visitor Count](https://profile-counter.glitch.me/NatanCarFF/count.svg)
+
 ## 🛰 Minhas redes sociais
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/🛡-natanael-carvalho-082380201/)
 - [![LinkedIn](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/NatanCarFF)
@@ -8,8 +11,9 @@
 
 ##
 <div style="display: inline_block">
-  <h3>Linguagens</h3>
+  <h3>Tecnologias</h3>
   <img align="center" alt="-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="-Java" height="40" width="50" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" />
 </div>
 
 ## Github Stats
