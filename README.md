@@ -1,7 +1,7 @@
 # Olá! eu sou o Natanael 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-## CONTAGEM DE VISITANTES 
+## CONTAGEM DE VISITAS
 ![Visitor Count](https://profile-counter.glitch.me/NatanCarFF/count.svg)
 
 ## 😃 Visite minhas redes sociais
