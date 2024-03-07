@@ -4,10 +4,10 @@
 ## CONTAGEM DE VISITANTES 
 ![Visitor Count](https://profile-counter.glitch.me/NatanCarFF/count.svg)
 
-## 🛰 Minhas redes sociais
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/🛡-natanael-carvalho-082380201/)
-- [![LinkedIn](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/NatanCarFF)
-- [![LinkedIn](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/NatanCarFF)
+## 😃 Visite minhas redes sociais
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/🛡-natanael-carvalho-082380201/)
+- [![LinkedIn](https://img.shields.io/badge/github-fff?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/NatanCarFF)
+- [![LinkedIn](https://img.shields.io/badge/instagram-fff?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/NatanCarFF)
 
 ##
 <div style="display: inline_block">
