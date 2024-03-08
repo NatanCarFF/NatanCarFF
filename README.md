@@ -9,12 +9,7 @@
 - [![LinkedIn](https://img.shields.io/badge/github-fff?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/NatanCarFF)
 - [![LinkedIn](https://img.shields.io/badge/instagram-fff?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/NatanCarFF)
 
-##
-<div style="display: inline_block">
-  <h3>Tecnologias</h3>
-  <img align="center" alt="-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="-Java" height="40" width="50" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" />
-</div>
+![natanael-carvalho](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/8e267f59-6227-42b7-9a2c-65c734338dbd)
 
 ## Github Stats
 
