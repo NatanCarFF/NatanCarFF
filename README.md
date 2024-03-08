@@ -1,15 +1,14 @@
-# Olá! eu sou o Natanael 👋🏻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=60&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-## CONTAGEM DE VISITAS
+## Essa é a visita N°
 ![Visitor Count](https://profile-counter.glitch.me/NatanCarFF/count.svg)
 
-## 😃 Visite minhas redes sociais
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/🛡-natanael-carvalho-082380201/)
-- [![LinkedIn](https://img.shields.io/badge/github-fff?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/NatanCarFF)
-- [![LinkedIn](https://img.shields.io/badge/instagram-fff?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/NatanCarFF)
-
+## Esse é o resultado dos meus esforços até o momento:
 ![natanael-carvalho](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/8e267f59-6227-42b7-9a2c-65c734338dbd)
+
+## Também estou nessas redes sociais:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/🛡-natanael-carvalho-082380201/)
+- [![LinkedIn](https://img.shields.io/badge/instagram-fff?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/NatanCarFF)
 
 ## Github Stats
 
