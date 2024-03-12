@@ -5,9 +5,10 @@
 
 ## Esse é o resultado dos meus esforços até o momento:
 
-![1](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/ec324209-9877-40ee-9589-11d3defa60cd)
-![2](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/12c5aa03-db8b-4806-9af5-e6a8d1bd0609)
-![3](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/144399d2-7251-4553-8076-44c82f95ac57)
+![1](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/a091d47c-bda2-4889-b499-df90c4991669)
+![2](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/6d3627f4-f8d6-44be-a659-1e3a2d8a6928)
+![3](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/a4b6eccf-7b90-48ed-bfa8-c12d44210cc5)
+
 
 
 ## Também estou nessas redes sociais:
