@@ -4,7 +4,11 @@
 ![Visitor Count](https://profile-counter.glitch.me/NatanCarFF/count.svg)
 
 ## Esse é o resultado dos meus esforços até o momento:
-![natanael-carvalho](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/8e267f59-6227-42b7-9a2c-65c734338dbd)
+
+![1](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/ec324209-9877-40ee-9589-11d3defa60cd)
+![2](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/12c5aa03-db8b-4806-9af5-e6a8d1bd0609)
+![3](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/144399d2-7251-4553-8076-44c82f95ac57)
+
 
 ## Também estou nessas redes sociais:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/🛡-natanael-carvalho-082380201/)
