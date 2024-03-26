@@ -5,7 +5,7 @@
 
 ## Esse é o resultado dos meus esforços até o momento:
 
-![1](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/a091d47c-bda2-4889-b499-df90c4991669)
+![1](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/bb3c0958-82fb-4113-82ca-0e836d3fa359)
 ![2](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/6d3627f4-f8d6-44be-a659-1e3a2d8a6928)
 ![3](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/a4b6eccf-7b90-48ed-bfa8-c12d44210cc5)
 
