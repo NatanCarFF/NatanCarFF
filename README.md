@@ -13,6 +13,12 @@
 
 
 
+<div>
+<a href="https://github.com/NatanCarFF">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCarFF&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanCarFF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 ## Também estou nessas redes sociais:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/🛡-natanael-carvalho-082380201/)
