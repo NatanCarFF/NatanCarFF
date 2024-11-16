@@ -8,12 +8,10 @@
 ## Esse é o resultado dos meus esforços até o momento:
 
 
+![1](https://github.com/user-attachments/assets/4dec6330-0bad-4ac3-8dda-3a116cd996a2)
+![2](https://github.com/user-attachments/assets/1eff6b46-3fb4-4d66-a781-48d11f786de7)
+![3](https://github.com/user-attachments/assets/391b24b5-40bf-4510-91ae-c73d67c9e90b)
 
-[curriculoNatanael.pdf](https://github.com/user-attachments/files/17786722/curriculoNatanael.pdf)
-
-![1](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/2a39f6b6-bc5a-4783-8033-56844823ad34)
-![2](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/97d2eefc-5a84-4557-a45e-bf741322b0f4)
-![3](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/e5bddc4d-9e9f-4628-a502-b2e227d4367d)
 
 
 
