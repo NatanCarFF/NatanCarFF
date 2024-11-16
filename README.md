@@ -9,6 +9,7 @@
 
 
 
+[curriculoNatanael.pdf](https://github.com/user-attachments/files/17786722/curriculoNatanael.pdf)
 
 ![1](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/2a39f6b6-bc5a-4783-8033-56844823ad34)
 ![2](https://github.com/NatanCarFF/NatanCarFF/assets/161735922/97d2eefc-5a84-4557-a45e-bf741322b0f4)
