@@ -8,10 +8,14 @@
 ## Esse é o resultado dos meus esforços até o momento:
 
 
-![1](https://github.com/user-attachments/assets/2d522ce8-3574-4c9b-842e-189ce61d8f68)
-![2](https://github.com/user-attachments/assets/d830ab1c-6e18-49fb-9ca1-115367b75360)
-![3](https://github.com/user-attachments/assets/5f81b46b-3eb6-4076-a5c8-550d5e8b1a0d)
-![4](https://github.com/user-attachments/assets/338bd6db-70bd-400b-8842-6eff7a71910c)
+![1](https://github.com/user-attachments/assets/e746d9b4-ca3c-4d95-9eb6-12a37281f3f9)
+
+![2](https://github.com/user-attachments/assets/f95dbfdd-7c82-48a5-8956-3ed4666e1a42)
+
+![3](https://github.com/user-attachments/assets/0bf648ff-381b-413c-b580-30b6b56c2bcc)
+
+![4](https://github.com/user-attachments/assets/059fc2dc-e8f6-4104-87c4-e90a5c0e0718)
+
 
 
 
